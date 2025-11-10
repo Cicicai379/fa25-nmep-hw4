@@ -16,5 +16,7 @@ class Tokenizer:
     def encode(self, text: str) -> List[int]:
         raise NotImplementedError
 
+
+
     def decode(self, ids: List[int]) -> str:
         raise NotImplementedError
