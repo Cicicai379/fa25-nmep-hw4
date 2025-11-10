@@ -9,3 +9,4 @@ ckpts
 *.pt
 europarl/
 data/nmt/fr-en.tgz
+data/nmt/fr-en.tgz
